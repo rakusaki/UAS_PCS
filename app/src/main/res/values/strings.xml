@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">UAS_0593</string>
+    <string name="tab_text_1">Jadwal</string>
+    <string name="tab_text_2">Berlalu</string>
+    <string name="tab_text_3">Favorit</string>
+</resources>
